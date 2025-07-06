@@ -21,4 +21,6 @@ declare class Tabulator {
 /* -------- mathjs, Vue $t, jsPDF (заглушки) ------------------------------ */
 declare const math: any;
 declare function $t(key: string): string;
-declare namespace jspdf { const jsPDF: any; }
+declare namespace jspdf {
+  const jsPDF: any;
+}

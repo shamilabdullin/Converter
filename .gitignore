@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# VS CODE
+.vscode
+
+# Webstorm
+.idea
+
+#configs
+.eslintcache
+.stylelintcache
